@@ -31,7 +31,7 @@ I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 ![Image2](https://github.com/bobbycodder/NAIVE-BAYES/blob/main/IMAGES/newplot%20(1).png)
 
 
-# HAPPY CODING
+# HAPPY CODING . .
 
 
 
